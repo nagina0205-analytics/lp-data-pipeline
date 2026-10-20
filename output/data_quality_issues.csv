@@ -1,0 +1,5 @@
+rule,table,record,detail
+required_field,commitments,LP002 / FUND II,commitment_usd is missing
+duplicate,commitments,LP001 / FUND II,same LP and fund appears twice
+positive_amount,admin,T1006,amount is -500.0
+valid_date,admin,T1010,date could not be parsed

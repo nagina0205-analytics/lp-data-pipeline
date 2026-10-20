@@ -1,0 +1,4 @@
+txn_id,break_type,admin_amount_usd,ledger_amount_usd,difference_usd
+T1006,amount_mismatch,-500.0,3684710.94,-3684210.94
+T1013,amount_mismatch,599499.91,624499.91,-25000.0
+T1021,missing_in_ledger,6037877.21,,
