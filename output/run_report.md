@@ -1,6 +1,6 @@
 # LP data pipeline run report
 
-Run time: 2026-11-11 14:26 UTC
+Run time: 2026-11-12 14:26 UTC
 
 Data quality issues: **4**  
 Reconciliation breaks (admin vs ledger): **3**
